@@ -196,7 +196,6 @@ footer {
     font-size: 0.8em;
     padding: 5px;
 }
-}
 
 footer a {
     color: white;
@@ -204,7 +203,7 @@ footer a {
     text-decoration: none;
 }
 
-footer a:houver {
+footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
